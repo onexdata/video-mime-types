@@ -1,6 +1,6 @@
 {
   "name": "video-mime-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like mime-types, but without the 132kb code size, 1mb memory and 10m ops on load",
   "main": "index.js",
   "scripts": {

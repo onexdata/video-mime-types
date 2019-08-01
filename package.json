@@ -1,0 +1,19 @@
+{
+  "name": "video-mime-types",
+  "version": "1.0.0",
+  "description": "Like mime-types, but without the 132kb code size, 1mb memory and 10m ops on load",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onexdata/video-mime-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onexdata/video-mime-types/issues"
+  },
+  "homepage": "https://github.com/onexdata/video-mime-types#readme"
+}
